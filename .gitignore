@@ -2,4 +2,4 @@
 /.terraform.lock.hcl
 /modules
 /providers
-/
+
